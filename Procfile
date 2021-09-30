@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run eda_sp500_stock.py
